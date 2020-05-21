@@ -43,7 +43,7 @@ The idea is to build a single Spring Boot Jar with the following
       
       • Optional Embedded Persistent MariaDB4j
 
-## Build Status - ![Java CI with Maven](https://github.com/conductor-boot/conductor-boot-wrapper-embedded-quartz-mariadb4j/workflows/Java%20CI%20with%20Maven/badge.svg)
+## Build Status - ![Java CI with Maven](https://github.com/conductor-boot/conductor-boot-wrapper-oauth2-embedded-quartz-mariadb4j/workflows/Java%20CI%20with%20Maven/badge.svg)
 
 ## Pre-Requisites
 1. openjdk8 or Java 8
